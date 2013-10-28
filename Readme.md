@@ -1,4 +1,4 @@
-Tool for uploading files to AWS s3 buckets
+CLI tool for uploading files to AWS s3 buckets
 ------------------------------------------
 
 $ git clone git://github.com/eralpkaraduman/AWSS3Forwarder.git
