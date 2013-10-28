@@ -3,4 +3,5 @@ awsConfig.json
 failed.json
 queue.json
 node_modules
+current.json
 .idea
