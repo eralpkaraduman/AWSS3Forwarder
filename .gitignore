@@ -1,0 +1,6 @@
+awsConfig.json
+*.log
+failed.json
+queue.json
+node_modules
+.idea
