@@ -29,4 +29,5 @@ TO-DO:
 ------
 - add option to remove successfully uploaded files
 - add option to change monitoring server port
+- add option to upload directories
 
